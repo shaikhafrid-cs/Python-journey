@@ -6,6 +6,8 @@ My goal is to become an AI Engineer at a top tech company.
 
 ## Progress
 - Day 1 ✅ — Variables, Data Types, print(), f-strings, Debugging
+- Day 2 ✅ – string methods, math operators and user input
+- Day 3 ✅ – lists, indexing, append, remove, sorted, reverse
 
 ## My Goal
 To master Python and Machine Learning, and one day build AI systems that are powerful, safe, and beneficial to humanity
