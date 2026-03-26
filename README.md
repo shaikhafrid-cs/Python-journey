@@ -27,3 +27,10 @@ To master Python and Machine Learning, and one day build AI systems that are pow
 **How it connects to AI:** Every AI system processes user input and does calculations on data.
 **Struggle I overcame:** Got a TypeError, proved why it happened and fixed it myself.
 **Tomorrow I will:** Learn Lists — Chapter 3.
+
+### Day 3
+What I learned: I learned about Lists — how to store multiple values in one variable, access specific items using index numbers, and modify lists using append, remove, sorted and reverse methods.
+What I built: A goals tracker and an AI companies list program that adds, sorts and displays companies.
+How it connects to my AI/ML goal: Every AI model trains on lists of data — images, text, numbers. Knowing how to create and manipulate lists is the foundation of all data processing in ML.
+Struggle I overcame: Got an indentation error — learned that Python is strict about spaces and every line must start at the left edge.
+Tomorrow I will: Learn how to loop through lists — for loops. Chapter 4 of Python Crash Course.
